@@ -22,3 +22,16 @@ Temas Kino con **imagen de fondo** (apiVersion 26).
 | zzz-crew | ZZZ Crew | Amarillo |
 
 Cada tema incluye `background.image` con `dim ≥ 0.36` y paleta acorde.
+
+## Completar el repo (assets WebP)
+
+La API desde este entorno no sube bien archivos binarios (.webp).
+
+**Pasos (2 minutos):**
+
+1. Abre https://github.com/Susejing/Susejing-Themes-BG
+2. **Add file → Upload files**
+3. Sube la carpeta `assets/` (los 8 `.webp`) y el `kino-plugin.json` completo del zip
+4. Commit en `main`
+
+Luego el plugin ya se puede instalar en Kino.
